@@ -1,3 +1,7 @@
+## Demo
+
+<!-- If you commit `demo.mp4` into your repo’s `assets` folder -->
+[![Demo Video](./assets/demo-thumbnail.png)](https://www.linkedin.com/posts/jayesh-suthar-07a1322b5_python-debugger-visualdebugger-activity-7313880885492097024--qed?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuo3N4BqmQEjrw4C3BoDk7O6MMicA6Wgvc)
 
 ```
 Pawsitive
