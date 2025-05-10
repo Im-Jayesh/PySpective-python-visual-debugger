@@ -1,3 +1,15 @@
+# PySpective: Next-Gen Visual Python Debugger 🐍🔍
+PySpective (pronounced pie-spective) is a modern, web-based visual debugger for Python designed by Jayesh Suthar. It helps developers see code execution step by step, visualizing variables and data structures (lists, dicts, sets, tuples, custom objects) in real-time. PySpective is built for students and beginners who have trouble understanding how code works underneath the hood.
+
+This section is part of a larger university project developed by a four-person team, but this specific part has been entirely created by me. I have been working on this project on and off due to studies and have a lot of little bugs.
+
+## Tech Stack
+PySpective is powered by a modern full-stack architecture:
+Frontend: React for building dynamic, component-driven interfaces
+Backend: Node.js + Express for handling routes and API logic
+Execution Engine: Python 3.x using sys.settrace() for line-by-line execution tracking
+This combination enables a smooth developer experience with powerful debugging capabilities.
+
 ## Demo
 
 <!-- If you commit `demo.mp4` into your repo’s `assets` folder -->
